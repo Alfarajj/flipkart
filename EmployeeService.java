@@ -1,3 +1,1 @@
-Hello this is new line adding now...
-This file contains the employee info.
-.
+This file contains the employee info..
